@@ -1,0 +1,21 @@
+h1{
+   font-size: 50px;
+   border-style: solid;
+   border-color: blue red yellow green;
+   border-width: 20px;
+   margin: 50px;
+   padding: 50px;
+}
+h2{
+   font-size: 50px;
+   border-style: solid;
+   border-color: blue red yellow green;
+   border-width: 20px;
+   margin: 50px;
+}
+div{
+   background-color: red;
+   width: 250px;
+   height: 250px;
+   margin: 0px auto;
+}
